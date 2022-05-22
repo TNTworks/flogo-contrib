@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/activity/xml2json
+module github.com/TNTworks/flogo-contrib/activity/xml2json
 
 require (
 	github.com/clbanning/mxj v1.8.4
@@ -7,4 +7,4 @@ require (
 	github.com/stretchr/testify v1.4.0
 )
 
-go 1.12
+go 1.16

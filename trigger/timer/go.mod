@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/trigger/timer
+module github.com/TNTworks/flogo-contrib/trigger/timer
 
 require (
 	github.com/carlescere/scheduler v0.0.0-20170109141437-ee74d2f83d82
@@ -7,4 +7,4 @@ require (
 	github.com/stretchr/testify v1.4.0
 )
 
-go 1.12
+go 1.16

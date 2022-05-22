@@ -12,7 +12,7 @@ import (
 
 const testConfig string = `{
 	"id": "flogo-timer",
-	"ref": "github.com/project-flogo/contrib/trigger/timer",
+	"ref": "github.com/TNTworks/flogo-contrib/trigger/timer",
 	"handlers": [
 	  {
 		"settings":{

@@ -8,7 +8,7 @@ This trigger provides your flogo application the ability to schedule an action
 ## Installation
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/timer
+flogo install github.com/TNTworks/flogo-contrib/trigger/timer
 ```
 
 ## Configuration
@@ -32,7 +32,7 @@ Configure the Trigger to run a flow immediately
   "triggers": [
     {
       "id": "flogo-timer",
-      "ref": "github.com/project-flogo/contrib/trigger/timer",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/timer",
       "handlers": [
         {
           "action": {
@@ -56,7 +56,7 @@ Configure the Trigger to run a flow once with a delay of one minute.  "startDela
   "triggers": [
     {
       "id": "flogo-timer",
-      "ref": "github.com/project-flogo/contrib/trigger/timer",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/timer",
       "handlers": [
         {
           "settings": {
@@ -83,7 +83,7 @@ Configure the Trigger to run a flow repeating every 10 minutes. "repeatInterval"
   "triggers": [
     {
       "id": "flogo-timer",
-      "ref": "github.com/project-flogo/contrib/trigger/timer",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/timer",
       "handlers": [
         {
           "settings": {
@@ -110,7 +110,7 @@ Configure the Trigger to run a flow every minute, with a delayed start of 10 min
   "triggers": [
     {
       "id": "flogo-timer",
-      "ref": "github.com/project-flogo/contrib/trigger/timer",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/timer",
       "handlers": [
         {
           "settings": {

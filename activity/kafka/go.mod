@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/activity/kafka
+module github.com/TNTworks/flogo-contrib/activity/kafka
 
 require (
 	github.com/Shopify/sarama v1.22.0
@@ -7,4 +7,4 @@ require (
 	github.com/stretchr/testify v1.4.0
 )
 
-go 1.12
+go 1.16

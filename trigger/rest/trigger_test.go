@@ -28,7 +28,7 @@ func TestTrigger_Register(t *testing.T) {
 
 const testConfig string = `{
 	"id": "trigger-rest",
-	"ref": "github.com/project-flogo/contrib/trigger/rest",
+	"ref": "github.com/TNTworks/flogo-contrib/trigger/rest",
 	"settings": {
         "port": "8888"
     },

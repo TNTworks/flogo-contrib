@@ -9,7 +9,7 @@ The `jsexec` activity evaluates a javascript `script` along with provided `param
 
 ### Flogo CLI
 ```bash
-flogo install github.com/project-flogo/contrib/activity/jsexec
+flogo install github.com/TNTworks/flogo-contrib/activity/jsexec
 ```
 
 ## Configuration

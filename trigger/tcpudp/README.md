@@ -8,7 +8,7 @@ This trigger reads/writes data using TCI/UDP networks.
 
 ### Flogo CLI
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/tcpudp
+flogo install github.com/TNTworks/flogo-contrib/trigger/tcpudp
 ```
 
 ## Configuration
@@ -42,7 +42,7 @@ flogo install github.com/project-flogo/contrib/trigger/tcpudp
 {
   "triggers": [
           {
-              "ref": "github.com/project-flogo/contrib/trigger/tcpudp",
+              "ref": "github.com/TNTworks/flogo-contrib/trigger/tcpudp",
               "name": "ReceiveTCPData",
               "settings": {
                   "network": "tcp4",

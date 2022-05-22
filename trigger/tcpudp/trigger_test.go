@@ -12,7 +12,7 @@ import (
 
 const testConfig string = `{
 	"id": "flogo-tcpudp-trigger",
-	"ref": "github.com/project-flogo/contrib/trigger/tcp",
+	"ref": "github.com/TNTworks/flogo-contrib/trigger/tcp",
 	"settings": {
       "network": "tcp",
 	  "host": "127.0.0.1",

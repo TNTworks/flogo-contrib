@@ -41,19 +41,19 @@ Core collection of Flogo contributions.  This repository consists of activities,
 Example: install **log** activity
 
 ```bash
-flogo install github.com/project-flogo/contrib/activity/log
+flogo install github.com/TNTworks/flogo-contrib/activity/log
 ```
 #### Install Trigger
 Example: install **rest** trigger
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/rest
+flogo install github.com/TNTworks/flogo-contrib/trigger/rest
 ```
 #### Install Functions
 Example: install **string** functions
 
 ```bash
-flogo install github.com/project-flogo/contrib/function/string
+flogo install github.com/TNTworks/flogo-contrib/function/string
 ```
 
 ## Contributing and support

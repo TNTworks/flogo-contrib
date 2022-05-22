@@ -5,9 +5,9 @@
   "type": "flogo:app",
   "appModel": "1.1.0",
   "imports": [
-    "github.com/project-flogo/contrib/trigger/cli",
+    "github.com/TNTworks/flogo-contrib/trigger/cli",
     "github.com/project-flogo/flow",
-    "github.com/project-flogo/contrib/activity/log"
+    "github.com/TNTworks/flogo-contrib/activity/log"
   ],
   "triggers": [
     {

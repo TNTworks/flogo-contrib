@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/activity/jsexec
+module github.com/TNTworks/flogo-contrib/activity/jsexec
 
 require (
 	github.com/dlclark/regexp2 v1.2.0 // indirect
@@ -10,4 +10,4 @@ require (
 	golang.org/x/text v0.3.2 // indirect
 )
 
-go 1.12
+go 1.16

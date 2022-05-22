@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/trigger/rest
+module github.com/TNTworks/flogo-contrib/trigger/rest
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
@@ -7,4 +7,4 @@ require (
 	github.com/stretchr/testify v1.4.0
 )
 
-go 1.12
+go 1.16

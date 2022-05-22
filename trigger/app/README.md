@@ -12,7 +12,7 @@ been stopped.
 ## Installation
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/app
+flogo install github.com/TNTworks/flogo-contrib/trigger/app
 ```
 
 ## Configuration
@@ -31,7 +31,7 @@ Configure the trigger in order to have a special startup and cleanup action for 
   "triggers": [
     {
       "id": "flogo-app",
-      "ref": "github.com/project-flogo/contrib/trigger/app",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/app",
       "handlers": [
         {
           "settings": {

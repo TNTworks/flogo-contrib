@@ -22,7 +22,7 @@ import (
 
 const testConfig string = `{
   "id": "flogo-cli",
-	"ref": "github.com/project-flogo/contrib/trigger/cli",
+	"ref": "github.com/TNTworks/flogo-contrib/trigger/cli",
 	"settings":{
 		"singleCmd":true
 	},

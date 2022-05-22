@@ -1,4 +1,4 @@
-module github.com/project-flogo/contrib/trigger/tcpudp
+module github.com/TNTworks/flogo-contrib/trigger/tcpudp
 
 require (
 	github.com/pkg/errors v0.9.1 // indirect
@@ -6,4 +6,4 @@ require (
 	github.com/stretchr/testify v1.3.0
 )
 
-go 1.12
+go 1.16

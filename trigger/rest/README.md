@@ -8,7 +8,7 @@ This trigger provides your flogo application the ability to start an action via 
 ## Installation
 
 ```bash
-flogo install github.com/project-flogo/contrib/trigger/rest
+flogo install github.com/TNTworks/flogo-contrib/trigger/rest
 ```
 
 ## Configuration
@@ -57,7 +57,7 @@ Configure the Trigger to handle a POST on /device
   "triggers": [
     {
       "id": "flogo-rest",
-      "ref": "github.com/project-flogo/contrib/trigger/rest",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/rest",
       "settings": {
         "port": 8080
       },
@@ -88,7 +88,7 @@ Configure the Trigger to handle a GET on /device/:id
   "triggers": [
     {
       "id": "flogo-rest",
-      "ref": "github.com/project-flogo/contrib/trigger/rest",
+      "ref": "github.com/TNTworks/flogo-contrib/trigger/rest",
       "settings": {
         "port": 8080
       },

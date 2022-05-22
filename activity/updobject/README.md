@@ -10,7 +10,7 @@ This activity allows update an existing object's values.
 
 ### Flogo CLI
 ```bash
-flogo install github.com/project-flogo/contrib/activity/updobject
+flogo install github.com/TNTworks/flogo-contrib/activity/updobject
 ```
 
 ## Configuration
@@ -30,7 +30,7 @@ Update the passthru object's foo value:
   "id": "updflowpassthru",
   "name": "Update Flow Passthru",
   "activity": {
-    "ref": "github.com/project-flogo/contrib/activity/updobject",
+    "ref": "github.com/TNTworks/flogo-contrib/activity/updobject",
     "input": {
       "object": "=$flow.passthru",
       "values": {"foo": "bar"}

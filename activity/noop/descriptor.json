@@ -1,0 +1,8 @@
+{
+  "name": "flogo-noop",
+  "type": "flogo:activity",
+  "version": "0.10.0",
+  "title": "No-Op",
+  "description": "No-Op Activity",
+  "homepage": "https://github.com/project-flogo/contrib/edit/master/activity/noop"
+}

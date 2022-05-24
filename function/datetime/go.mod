@@ -7,4 +7,4 @@ require (
 	github.com/tkuchiki/parsetime v0.0.0-20160517140325-bece749572a8
 )
 
-go 1.16
+go 1.18

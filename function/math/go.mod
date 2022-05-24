@@ -1,6 +1,6 @@
 module github.com/TNTworks/flogo-contrib/function/math
 
-go 1.16
+go 1.18
 
 require (
 	github.com/project-flogo/core v1.5.0

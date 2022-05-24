@@ -1,6 +1,6 @@
 module github.com/TNTworks/flogo-contrib/function/json
 
-go 1.16
+go 1.18
 
 require (
 	github.com/oliveagle/jsonpath v0.0.0-20180606110733-2e52cf6e6852

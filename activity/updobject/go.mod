@@ -1,6 +1,6 @@
 module github.com/TNTworks/flogo-contrib/activity/updobject
 
-go 1.16
+go 1.18
 
 require (
 	github.com/project-flogo/core v0.10.2

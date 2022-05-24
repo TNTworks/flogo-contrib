@@ -1,6 +1,6 @@
 module github.com/TNTworks/flogo-contrib/function/url
 
-go 1.16
+go 1.18
 
 require (
 	github.com/project-flogo/core v1.4.0
